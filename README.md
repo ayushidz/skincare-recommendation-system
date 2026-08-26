@@ -30,3 +30,8 @@ skincare-recommendation-system/
 ├── test.md
 ├── Skinpro - Skinpro (3).csv
 └── skincare_recommendation.ipynb
+
+## Submission Links
+
+- **GitHub:** https://github.com/ayushidz/skincare-recommendation-system
+- **Live Demo:** https://skincare-recommendation-system-bd2beefcjnpw2prsfjnz2c.streamlit.app/
