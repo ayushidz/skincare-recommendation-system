@@ -20,6 +20,19 @@ It uses a **hybrid content-based recommendation approach** combining:
 
 The app also shows a match score, recommendation reasons, product images, and product links.
 
+## UI Design
+
+The application uses a **light-mode, blush-pink interface** designed to provide a simple, clean, and approachable skincare experience.
+
+The UI includes:
+
+- Soft blush-pink styling
+- Minimal and easy-to-use inputs
+- Bow-themed visual elements 🎀
+- Product images
+- Clear recommendation scores
+- Simple explanations for recommendations
+
 ## Project Structure
 
 ```text
